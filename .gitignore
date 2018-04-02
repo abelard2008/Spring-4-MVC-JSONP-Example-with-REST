@@ -1,0 +1,15 @@
+project
+target
+build
+bin
+.project
+.gradle
+.classpath
+target/*
+/*/project
+*.iml
+*.log
+.idea
+.idea/*
+*~
+
