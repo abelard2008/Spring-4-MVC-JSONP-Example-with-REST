@@ -7,6 +7,8 @@ the steps:
 1. mvn package; mvn spring-boot:run
 
 2. open file:///jsonptest.html in browser, such as google chrome, under console, there is:
+
+
 Godan Premchand
 -----------
 Ramcharitmanas
